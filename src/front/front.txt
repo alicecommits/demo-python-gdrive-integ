@@ -1,0 +1,12 @@
+teaser
+this will be a front end that goes
+
+thumbnail to see ourselves - we are beautiful
+a button to click 'take picture'
+
+upon clicking button, button was bound to an event that
+triggers the action of
+calling the app.post(/upload-to-gdrive) method
+
+and we will define the app.post(/upload-to-gdrive)
+on the backend (main.py)
